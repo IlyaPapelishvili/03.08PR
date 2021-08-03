@@ -5,49 +5,85 @@
       "countres": [
         {
           "name": "Belarus",
+          "capital": "Minsk",
           "population": "9.5 million",
           "bool": false
         },
         {
-          "name": "Russia"
+          "name": "Russia",
+          "capital": "Moscú",
+          "population": "144,5 miliom",
+          "bool": "cierto"
         }
       ]
     },
     {
+      "name": "Asia",
       "countres": [
         {
+          "name": "porcelana",
+          "capital": "Beijing",
+          "population": " 1.386 mil millones"
         },
         {
+          "name": "Japón",
+          "capital": "Tokio",
+          "population": "126,8 miliom"
         }
       ]
     },
     {
+      "name": "Australia",
       "countres": [
         {
+          "name": "Australia",
+          "capital": "Canberra",
+          "population": "24,6 millones"
         }
       ]
     },
     {
+      "name": "África",
       "countres": [
         {
+          "name": "Egipto",
+          "capital": "El Cairo",
+          "population": "97,55 millones"
         },
         {
+          "name": "Argelia",
+          "capital": "Argelia",
+          "population": "41,32 miliom"
         }
       ]
     },
     {
+      "name": "América del norte",
       "countres": [
         {
+          "name": "Canadá",
+          "capital": "Ottawa",
+          "population": "37,59 millones"
         },
         {
+          "name": "EE.UU",
+          "capital": "Washington",
+          "population": "327,2 miliom"
         }
       ]
     },
     {
+      "name": "Sudamerica",
       "countres": [
         {
+          "name": "Brasil",
+          "capital": "Brazilia",
+          "population": "209,3 millones"
         },
         {
+          "name": "Chile",
+          "capital": "Santiago",
+          "population": "18,05 miliom"
         }
       ]
     }
