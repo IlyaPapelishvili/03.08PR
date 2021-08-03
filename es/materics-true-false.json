@@ -1,0 +1,52 @@
+{
+  "materics": [
+    {
+      "name": "Europe",
+      "countres": [
+        {
+          "name": "Belarus"
+        },
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    }
+  ]
+}
