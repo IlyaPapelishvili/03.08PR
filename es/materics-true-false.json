@@ -1,0 +1,55 @@
+{
+  "materics": [
+    {
+      "name": "Europe",
+      "countres": [
+        {
+          "name": "Belarus",
+          "population": "9.5 million",
+          "bool": false
+        },
+        {
+          "name": "Russia"
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    },
+    {
+      "countres": [
+        {
+        },
+        {
+        }
+      ]
+    }
+  ]
+}
