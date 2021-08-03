@@ -4,9 +4,12 @@
       "name": "Europe",
       "countres": [
         {
-          "name": "Belarus"
+          "name": "Belarus",
+          "population": "9.5 million",
+          "bool": false
         },
         {
+          "name": "Russia"
         }
       ]
     },
